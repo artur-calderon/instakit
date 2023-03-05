@@ -8,7 +8,7 @@ export function JaqueProfile() {
       name="Jaqueline Calderon"
       profissao="Violoncelista|Professora de Música"
       aboutME="Gosto de Tocar, ler livros e ver a natureza"
-      instaLink="https://www.instagram.com/artur.jsx/"
+      instaLink="https://www.instagram.com/jaquecalder0n/"
       whatsLink='https://wa.me/5569993736910?text=Ola%2C+vim+pelo+instaKit'
       colorBtn='#581d22'
     />
